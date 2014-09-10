@@ -1,0 +1,18 @@
+{
+  "name": "nslo-elvironment",
+  "version": "0.1.0",
+  "description": "create elements in a familiar environment",
+  "authors": [
+    "Øystein Ø. Olsen <fireneslo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*.js",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "./browser/nslo-elvironment.js"
+}
